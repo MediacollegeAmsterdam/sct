@@ -1,1 +1,1 @@
-# sct
+# opdrachten voor het vak Scripting 
